@@ -1,0 +1,22 @@
+{
+  "name": "nodejslabs",
+  "version": "1.0.0",
+  "description": "labwork1",
+  "main": "index.js",
+  "scripts": {
+    "test": "git@github.com:Arsen0109/NodeJsLabs.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arsen0109/NodeJsLabs.git"
+  },
+  "keywords": [
+    "labwork"
+  ],
+  "author": "Arsen0109",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arsen0109/NodeJsLabs/issues"
+  },
+  "homepage": "https://github.com/Arsen0109/NodeJsLabs#readme"
+}
