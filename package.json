@@ -2,6 +2,7 @@
   "name": "nodejslabs",
   "version": "1.0.0",
   "description": "labwork1",
+  "type":"module",
   "main": "index.js",
   "scripts": {
     "test": "git@github.com:Arsen0109/NodeJsLabs.git"
