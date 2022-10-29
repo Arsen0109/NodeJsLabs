@@ -3,7 +3,7 @@ module.exports = {
     node: true,
     es2021: true,
   },
-  extends: ["standard", "plugin:sonarjs/recommended", "eslint"],
+  extends: ["standard", "plugin:sonarjs/recommended"],
   overrides: [],
   parserOptions: {
     ecmaVersion: "latest",
